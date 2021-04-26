@@ -1,4 +1,10 @@
 # Solidity Smart Contract Demo
+## Deployment
+ERC20FixedSupply
+https://kovan.etherscan.io/address/0x1a9dce212cd804a7d95b28f6a9ae32861dc12221#code
+
+SalesCtrt
+https://kovan.etherscan.io/address/0x8bbc9a890c8d82312e88d1de0989a7a493110add#code
 
 ## Installation
 Install NodeJs v15.14.0 or above
@@ -12,10 +18,10 @@ Notice: For all amounts below, 18 zeros are omitted. The token amount below are 
 
 Prepare 3 Ethereum addresses for owner, user1 and user2<br>
 
-# For ERC20 Contract
+# ERC20 Contract
 ## Deployment
 
-# For Sales Contract
+# Sales Contract
 ## Deployment
 
 ## Testing Scenarios
