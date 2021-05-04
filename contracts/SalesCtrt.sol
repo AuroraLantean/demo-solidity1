@@ -377,7 +377,7 @@ contract SalesCtrt {
         revert("no function matched");
     }
     receive() external payable {
-        //called when the call data is empty
+        //when ether is sent to a contract with no calldata.
         if (msg.value > 0) {
             revert();
         }

@@ -2,12 +2,10 @@ archives
 build
 images
 
+.openzeppelin/
 deploy/
 scripts/
 secrets.js
-
-# others
-abi/
 
 # Golang
 main
@@ -24,6 +22,7 @@ coverageEnv
 allFiredEvents
 
 #Hardhat files
+abi/
 cache
 artifacts
 

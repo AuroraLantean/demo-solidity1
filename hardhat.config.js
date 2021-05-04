@@ -2,6 +2,8 @@ require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-web3");
 require("@nomiclabs/hardhat-ganache");
 require("@nomiclabs/hardhat-etherscan");
+require('@openzeppelin/hardhat-upgrades');
+
 //   package.json: "type": "module",
 
 // This is a sample Hardhat task. To learn how to create your own go to https://hardhat.org/guides/create-task.html
