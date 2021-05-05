@@ -43,7 +43,7 @@ contract BoxV2 {
         emit ValueChanged(value);
     }
 }
-/**11
+/**12
 You can use your Solidity contracts with OpenZeppelin Upgrades without any modifications, except for their constructors. Due to a requirement of the proxy-based upgradeability system, no constructors can be used in upgradeable contracts. To learn about the reasons behind this restriction, head to Proxies.
 https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies#the-constructor-caveat
 
